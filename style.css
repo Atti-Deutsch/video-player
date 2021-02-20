@@ -63,7 +63,7 @@ video {
   display: flex;
   justify-content: space-between;
   opacity: 0;
-  transition: all 0.5s ease-out 2s;  /*transition allows hover opacity to transit in a certain way*/
+  transition: all 0.2s ease-out 2s;  /*transition allows hover opacity to transit in a certain way*/
 }
 
 .show-controls:hover .controls-container {
